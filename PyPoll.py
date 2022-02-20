@@ -1,3 +1,0 @@
-
-
-election_results.csv
